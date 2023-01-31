@@ -61,3 +61,6 @@ If a loan applicant who is not capable of loan repayment is classified as capabl
 Similarly, if a capable applicant is classified as non-capable, the person has his/her application rejected and the Bank loses out on a customer, which affects their profits.
 
 ***Descrription of columns is included in HomeCredit_columns_description.csv*** 
+
+
+
