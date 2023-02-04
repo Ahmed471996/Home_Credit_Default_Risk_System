@@ -64,7 +64,21 @@ Similarly, if a capable applicant is classified as non-capable, the person has h
 
 
 
+## Output 
+![image](https://user-images.githubusercontent.com/101316217/216772940-c96b1b99-8def-4307-bbd4-e7e537be50c4.png)
 
+## Future Work
+Try Other models such as Random Forest, or Xgboost
+
+Try to get more data using data aggregation from other files included
+
+Try to investigate more in other files and get more insights about the data
+
+Tunning the model
+
+Try another data balancing techniques such as SMOTE.
+
+Try different combination of scaling techniques such as standard scaler or MinMax scaler.
 
 
 ## References 
@@ -120,6 +134,3 @@ https://www.kaggle.com/rinnqd/reduce-memory-usage
 https://academic.oup.com/bioinformatics/article/26/10/1340/193348
 
 https://www.kaggle.com/tilii7/olivier-lightgbm-parameters-by-bayesian-opt/code
-
-
-
