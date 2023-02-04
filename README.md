@@ -64,3 +64,62 @@ Similarly, if a capable applicant is classified as non-capable, the person has h
 
 
 
+
+
+
+## References 
+
+[1] M. Qamruzzaman and W. Jianguo, “Financial innovation and economic growth in Bangladesh,” Financ. Innov., 2017, doi: 10.1186/s408540-0070-017-.
+
+[2] F. D. I. Corporation, “2017 FDIC national survey of unbanked and underbanked households.” Federal Deposit Insurance Corporation Washington, DC, 2018.
+
+[3] M. Alam, “Risk prediction of loan default using knowledge graph,” 2022.
+
+[4] J. P. Simon, “Artificial intelligence: scope, players, markets and geography,” Digit. Policy, Regul. Gov. ,2019, doi: 10.1108/DPRG-080039-2018-.
+
+[5] C. Janiesch, P. Zschech, and K. Heinrich, “Machine learning and deep learning,” Electron. Mark., 2021, doi: 10.1007/s125252-00475-021-.
+
+[6] U. Kose, “Using artificial intelligence techniques for economic time series prediction,” in Contemporary Studies in Economic and Financial Analysis, 2019. doi: 10.1108/S1569375920190000101002-.
+
+[7] K. Mungai and A. Bayat, “The impact of big data on the South African banking industry,” 2018.
+
+[8] V. Dhar, “Data science and prediction,” Commun. ACM, 2013, doi: 10.11452500499/.
+
+[9] A. Nabil, “Data Science in FinTech: credit risk prediction using Deep Learning,” ETSI_Informatica, 2020.
+
+[10] Home Credit Group, “Home Credit Default Risk DataSet,” Kaggle, 2018.
+
+[11] P. Beck, “Predicting Loan Default Likelihood Using Machine Learning,” 2021.
+
+[12] Y. E. Gundogmus, M. Nuhuz, and M. Tez, “Riskbased Fraud Analysis for Bank Loans with Autonomous Machine Learning,” in y-BIS 2019 Conference Book: Recent Advances n Data Sc ence and Bus ness Analyt cs, 2019, p. 143.
+
+[13] X. Chen, X. Liu, Z. Liu, P. Song, and M. Zhong, “A deep learning approach using DeepGBM for credit assessment,” 2019. doi: 10.11453366194.3366333/.
+
+[14] Dall›asta Rigo, Elif Yağmur. Evaluation of stacking for predicting credit risk scores. Diss. Applied Data Science, 2020.
+
+[15] Y. Tounsi, H. Anoun, and L. Hassouni, “CSMAS: Improving Multi-Agent Credit Scoring System by Integrating Big Data and the new generation of Gradient Boosting Algorithms,” 2020. doi: 10.11453386723.3387851/.
+
+[16] G. Ke et al., “LightGBM: A highly efficient gradient boosting decision tree,” 2017.
+
+[17] C. Egan, “Improving Credit Default Prediction Using Explainable AI,” Dublin, National College of Ireland, 2021.
+
+[18] Rodríguez P, Bautista MA, Gonzalez J, Escalera S. Beyond one-hot encoding: Lower dimensional target embedding. Image and Vision Computing. 2018 Jul 1;75:2131-.
+
+[19] Boubiche S, Boubiche DE, Bilami A, Toral-Cruz H. Big data challenges and data aggregation strategies in wireless sensor networks. IEEE access. 2018 May 3;6:2055871-.
+
+[20] Fushiki T. Estimation of prediction error by using K-fold cross-validation. Statistics and Computing. 2011 Apr;21(2):13746-.
+
+https://www.kaggle.com/competitions/home-credit-default-risk/code
+
+https://www.kaggle.com/competitions/home-credit-default-risk/overview
+
+https://www.kaggle.com/competitions/home-credit-default-risk/data
+
+https://www.kaggle.com/rinnqd/reduce-memory-usage
+
+https://academic.oup.com/bioinformatics/article/26/10/1340/193348
+
+https://www.kaggle.com/tilii7/olivier-lightgbm-parameters-by-bayesian-opt/code
+
+
+
