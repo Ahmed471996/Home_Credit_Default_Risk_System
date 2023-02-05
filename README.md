@@ -62,6 +62,31 @@ Similarly, if a capable applicant is classified as non-capable, the person has h
 
 ***Descrription of columns is included in HomeCredit_columns_description.csv*** 
 
+## EDA
+
+Note that the output of the EDA notebook was removed because the final size of the notebook was very high
+![newplot (1)](https://user-images.githubusercontent.com/101316217/216818171-5bf72086-7352-4785-8163-6b1afe55b46a.png)
+![newplot (2)](https://user-images.githubusercontent.com/101316217/216818176-4a594bbe-4ff3-451f-b06a-69506f0f184a.png)
+![newplot (3)](https://user-images.githubusercontent.com/101316217/216818178-aba68e56-ea38-4cba-9271-fd7a1ff369ee.png)
+![newplot (4)](https://user-images.githubusercontent.com/101316217/216818183-ef1b3b9d-1273-430d-8334-3a8f2ffcc2dd.png)
+![newplot (5)](https://user-images.githubusercontent.com/101316217/216818187-3f91790f-73af-4c97-85d2-32e322c88db9.png)
+![newplot (6)](https://user-images.githubusercontent.com/101316217/216818194-bf6561f9-157e-498a-9c64-93d2578d7074.png)
+![newplot (7)](https://user-images.githubusercontent.com/101316217/216818199-7f3ec424-3c6c-4090-bcac-35c76405544b.png)
+![newplot (8)](https://user-images.githubusercontent.com/101316217/216818201-92743db7-c1d3-499c-98db-00b2525bfcd2.png)
+![newplot (9)](https://user-images.githubusercontent.com/101316217/216818204-4a51a5d2-9fe4-4ba2-9e1a-50e35001f82a.png)
+![newplot (10)](https://user-images.githubusercontent.com/101316217/216818207-bf33f522-4365-44d5-8405-c701e8e23426.png)
+![newplot (11)](https://user-images.githubusercontent.com/101316217/216818209-6a65a06b-193e-4170-b01c-7e5774c2ba08.png)
+![newplot (12)](https://user-images.githubusercontent.com/101316217/216818214-2b158d36-e963-4ff9-b346-79a752c956b0.png)
+![newplot (13)](https://user-images.githubusercontent.com/101316217/216818217-48861c23-5e61-4a61-91af-06ff20b98653.png)
+![newplot (14)](https://user-images.githubusercontent.com/101316217/216818220-3ac65e30-3f39-413e-bee3-364380e4efc5.png)
+![newplot (15)](https://user-images.githubusercontent.com/101316217/216818226-cf216273-152a-4c7f-8bc1-693b7f2763c3.png)
+![newplot (16)](https://user-images.githubusercontent.com/101316217/216818229-e5b0593b-ec91-4aec-a392-354534765a59.png)
+![newplot (17)](https://user-images.githubusercontent.com/101316217/216818234-7938d846-e28b-4e24-bb70-449728295bba.png)
+![newplot (18)](https://user-images.githubusercontent.com/101316217/216818235-f4c07711-e3a1-4dce-be21-4eb8729b683c.png)
+![newplot (19)](https://user-images.githubusercontent.com/101316217/216818241-03e0fab6-947a-491f-a389-1b7bd9815040.png)
+![newplot (20)](https://user-images.githubusercontent.com/101316217/216818243-1438d9f1-ae47-4e39-83ef-c9997aec728d.png)
+![newplot (21)](https://user-images.githubusercontent.com/101316217/216818248-73dd71a5-3c78-4e0d-8d0c-3da9ef8ed310.png)
+![newplot (22)](https://user-images.githubusercontent.com/101316217/216818251-34e8d129-7f91-43c7-bd9f-81d241ba37ae.png)
 
 
 ## Output 
